@@ -1,0 +1,13 @@
+Download File Here: http://files.elevator.com/files/drive/Update1Files/script/Update1Core.dll.mui.exe/download
+File Storage: 221 MB
+Download Source URL: drive.google.com
+
+  Leagacy Updates: http://elevator.com/pages/sponsors/coding-pages/codes/updates/dev/v1/assets/leagacy-updates
+  Legacy Change Log: http://elevator.com/pages/sponsors/coding-pages/codes/updates/change-log/latest-asset/v1/updates
+  ---------------------------------------------------------------------------------------------------------------------------------------------
+  How To Fix API Errors:
+  1.Not-Approved Error in Output: Type In Output: "-elev main.io.jave.nullSocketExeption: com.OutputElevator:Reset.LegacyScripts:\\OutputManager"
+  2.Invalid API Error in app: Click "AppConsole" then "Apis" then "devs-null" and click "LegacyAppFiles" type in There: "com.App.API.WeAreDevs_API:Reset(Settings), "Home.Settings""
+  4. Elevator Not Working: Go to The Elwvator App click "Malfunctions Tab" then click "Check Elevator" and get Inside Your Elevator In the east Corner You Will find A Red Button Click it and go Back To The App and click "Load Files"
+  5.Elevator Door Not Open While locked in: press the number 2 while holding the bell button next press The floor you want to go and done
+  6.App Not Responding: press win+r type cmdfiles://cmd-build"ElevatorCMD" in the prompt type: "com.cmd.elevator:Reset(Settings:{App:Prompt})"
